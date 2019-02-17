@@ -21,3 +21,4 @@ EXEC sp_addrolemember 'Executor', 'Reader';
 GRANT SELECT TO [Reader];
 
 GRANT VIEW CHANGE TRACKING ON Schema::SalesLT TO [Reader];
+GRANT VIEW DEFINITION ON Database::AdventureWorksLT2017 to [Reader];
