@@ -15,3 +15,6 @@ $group = New-AzADGroup -DisplayName $groupName -MailNickname $groupName
 # $group = Get-AzADGroup -SearchString "ADF_Access"
 
 Add-AzureAdGroupMember -ObjectId $Group.Id -RefObjectId $mysp.Id
+
+# list the membership
+Get-AzADGroup -SearchString $groupName | Get-AzAdGroupMember
