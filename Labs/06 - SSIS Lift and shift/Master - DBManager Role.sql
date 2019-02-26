@@ -1,0 +1,1 @@
+EXEC sp_addrolemember 'dbmanager', 'ADF_Access';
