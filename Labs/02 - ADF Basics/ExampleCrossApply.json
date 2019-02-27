@@ -1,0 +1,19 @@
+{
+    "ordernumber": "01",
+    "orderdate": "20170122",
+    "orderlines": [
+        {
+            "prod": "p1",
+            "price": 23
+        },
+        {
+            "prod": "p2",
+            "price": 13
+        },
+        {
+            "prod": "p3",
+            "price": 231
+        }
+    ],
+    "city": [ { "sanmateo": "No 1" } ]
+}

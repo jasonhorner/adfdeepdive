@@ -1,0 +1,21 @@
+{
+    "id": "ed0e4960-d9c5-11e6-85dc-d7996816aad3",
+    "context": {
+        "device": {
+            "type": "PC"
+        },
+        "custom": {
+            "dimensions": [
+                {
+                    "TargetResourceType": "Microsoft.Compute/virtualMachines"
+                },
+                {
+                    "ResourceManagementProcessRunId": "827f8aaa-ab72-437c-ba48-d8917a7336a3"
+                },
+                {
+                    "OccurrenceTime": "1/13/2017 11:24:37 AM"
+                }
+            ]
+        }
+    }
+}
