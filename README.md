@@ -7,7 +7,7 @@ Most modern laptops should be sufficient for completing the labs, but you will w
 [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer) will be helpful as well
 
 # VS Code
-Optionally you might want to install [VS Code](https://code.visualstudio.com/download#) As well
+Optionally you might want to install [VS Code](https://code.visualstudio.com/download#) as well
 
 #VS Code Add-ins
 I recomend the following add-in's For working with PowerShell and ARM Templates:
