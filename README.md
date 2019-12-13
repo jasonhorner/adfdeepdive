@@ -21,6 +21,13 @@ I recomend the following add-in's For working with PowerShell and ARM Templates:
 
 # Prerequisites Document
 I've put together the following prerequisites document to help guide you through the process. It looks long since the instructions are detailed, but it shouldn't take more than 60 minutes:
-https://github.com/jasonhorner/adfdeepdive/blob/master/Azure%20Data%20Factory%20-%20Workshop%20Prerequisites.pdf
+[Azure Data Factory Workshop Prerequisites](https://github.com/jasonhorner/adfdeepdive/blob/master/Azure%20Data%20Factory%20-%20Workshop%20Prerequisites.pdf)
+
+# Lab Document
+[Azure Data Factory Workshop Lab Document](https://github.com/jasonhorner/adfdeepdive/blob/master/Azure%20Data%20Factory%20-%20Workshop%20Prerequisites.pdf)
+
+# Slides
+[Azure Data Factory Workshop Slides](TBD)
+
 
 **NOTE:** Please complete the prerequisites before the workshop. Due to the number of attendees, we won't have time to walk through these steps in depth during the workshop. If you encounter any issues during the course of setup, please feel free to [email me](jason@jasonhorner.com) for help.
