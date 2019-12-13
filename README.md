@@ -6,8 +6,10 @@ Most modern laptops should be sufficient for completing the labs, but you will w
 
 [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer) will be helpful as well
 
+# VS Code
 Optionally you might want to install [VS Code](https://code.visualstudio.com/download#) As well
 
+#VS Code Add-ins
 I recomend the following add-in's For working with PowerShell and ARM Templates:
 
 [PowerShell VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
@@ -17,7 +19,7 @@ I recomend the following add-in's For working with PowerShell and ARM Templates:
 [Azure Resource Manager Snippets](https://marketplace.visualstudio.com/items?itemName=samcogan.arm-snippets)
 
 
-
+# Prerequisites Document
 I've put together the following prerequisites document to help guide you through the process. It looks long since the instructions are detailed, but it shouldn't take more than 60 minutes:
 https://github.com/jasonhorner/adfdeepdive/blob/master/Azure%20Data%20Factory%20-%20Workshop%20Prerequisites.pdf
 
