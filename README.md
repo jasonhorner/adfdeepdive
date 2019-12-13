@@ -27,7 +27,7 @@ I've put together the following prerequisites document to help guide you through
 [Azure Data Factory Workshop Lab Document](https://github.com/jasonhorner/adfdeepdive/blob/master/Labs/Labs.pdf)
 
 # Slides
-[Azure Data Factory Workshop Slides](TBD)
+Slides will be distributed via USB Key on the day of the session or you can email me for a pdf copy after the session
 
 
 **NOTE:** Please complete the prerequisites before the workshop. Due to the number of attendees, we won't have time to walk through these steps in depth during the workshop. If you encounter any issues during the course of setup, please feel free to [email me](jason@jasonhorner.com) for help.
