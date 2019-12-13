@@ -8,7 +8,7 @@ Most modern laptops should be sufficient for completing the labs, but you will w
 
 Optionally you might want to install [VS Code](https://code.visualstudio.com/download#) As well
 
-I recomend the Following add-in's For working with PowerShell and ARM Templates:
+I recomend the following add-in's For working with PowerShell and ARM Templates:
 
 [PowerShell VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
 
