@@ -24,7 +24,7 @@ I've put together the following prerequisites document to help guide you through
 [Azure Data Factory Workshop Prerequisites](https://github.com/jasonhorner/adfdeepdive/blob/master/Azure%20Data%20Factory%20-%20Workshop%20Prerequisites.pdf)
 
 # Lab Document
-[Azure Data Factory Workshop Lab Document](https://github.com/jasonhorner/adfdeepdive/blob/master/Azure%20Data%20Factory%20-%20Workshop%20Prerequisites.pdf)
+[Azure Data Factory Workshop Lab Document](https://github.com/jasonhorner/adfdeepdive/blob/master/Labs/Labs.pdf)
 
 # Slides
 [Azure Data Factory Workshop Slides](TBD)
